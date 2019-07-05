@@ -36,6 +36,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+
+
+
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -49,27 +52,29 @@ education:
       university: University of New South Wales
       time: 2019 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Health Data Science is the combination of science and generating big-data-driven
+        solutions through comprehensive of real-world health problems. This degree is an
+        intersection between multiple discipline, statistics, computer science, and health.
+        Morover, this degree covers from comprehension of complex health issues through data
+        wrangling and management, machine learning and data mining, data analytics, data
+        modeling and data visualisation.
 
-          - Bullet point
-          - Bullet point
 
     - degree: BSc in Bioinformatics Engineering (Honors)
       university: University of New South Wales
       time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Bioinformatics Engineering covers from genetics biology, computing (algorithms, databases
+        and programming), mathematics and statistics in order to develop the technologies for storing,
+        extracting, organising, analysing, interpreting and utilising the 'tsunami' of genetic
+        nformation being generated.
 
-          - Bullet point
-          - Bullet point
+
+          - Software Eng Workshop 1 (SENG1031) DN
+          - Database Systems (COMP3311) DN
+          - Artificial Intelligence (COMP3411) DN
+          - Thesis Part B (COMP4931) DN
+          - Business Finance (FINS1613) DN
 
 experiences:
     - role: Lead Developer
@@ -167,22 +172,31 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Microsoft Excel
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: R & Rstudio
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Perl
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Shell
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: SQL
+        level: 75%
+
+      - name: SAS
+        level: 60%
+
+      - name: Java
+        level: 60%
+
+      - namee: C
         level: 60%
 
 footer: >
